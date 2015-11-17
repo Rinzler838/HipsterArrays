@@ -1,7 +1,12 @@
 package hipster.controller;
 
+import hipster.controller.HipsterController;
+
 public class HipsterRunner
 {
-	HipsterController myController = new HipsterController();
-	myController.start();
+	public static void main (String [] args)
+	{
+		HipsterController myController = new HipsterController();
+		myController.start();
+	}
 }

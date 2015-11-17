@@ -6,7 +6,6 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import hipster.controller.HipsterController;
 
-
 public class HipsterPanel extends JPanel
 {
 	private HipsterController baseController;
