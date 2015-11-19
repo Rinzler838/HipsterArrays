@@ -7,7 +7,7 @@ public class Book
 	private String subject;
 	private String title;
 	
-	private Book()
+	public Book()
 	{
 		this.pageCount = 0;
 		this.author = "";
