@@ -18,7 +18,7 @@ public class Hipster
 	private void setupArray()
 	{
 		hipsterPhrases[0] = "That is so mainstream... ";
-		hipsterPhrases[1] = " don't mean to sound like a hipster, but... ";
+		hipsterPhrases[1] = "I don't mean to sound like a hipster, but... ";
 		hipsterPhrases[2] = "Insert sarcastic phrase here...";
 		hipsterPhrases[3] = "I was into ____ before it was cool... ";
 	}
