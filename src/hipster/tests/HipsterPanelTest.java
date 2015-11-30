@@ -46,7 +46,7 @@ public class HipsterPanelTest
 	@Test
 	public void testHipsterPanel()
 	{
-		assertTrue(testPanel.getComponents().length <= 8);
+		assertTrue(testPanel.getComponents().length >= 7);
 		assertTrue(testPanel.getLayout() instanceof javax.swing.SpringLayout);
 	}
 	
