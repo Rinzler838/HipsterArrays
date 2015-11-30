@@ -1,7 +1,6 @@
 package hipster.view;
 
 import javax.swing.*;
-
 import java.awt.event.ActionListener;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
